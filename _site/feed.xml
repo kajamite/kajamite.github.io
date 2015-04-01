@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog title</title>
-    <description>Really cool blog about ... something</description>
-    <link>http://niklabs.me/contrast</link>
-    <atom:link href="http://niklabs.me/contrastfeed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 01 Apr 2015 11:21:57 -0700</pubDate>
-    <lastBuildDate>Wed, 01 Apr 2015 11:21:57 -0700</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <title>Kajamite blog</title>
+    <description>Blog about Kajamite related stuff</description>
+    <link>http://kajamite.github.io</link>
+    <atom:link href="http://kajamite.github.iofeed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 01 Apr 2015 13:17:17 -0700</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2015 13:17:17 -0700</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Example 2</title>
@@ -60,8 +60,8 @@
 
 </description>
         <pubDate>Wed, 10 Sep 2014 15:37:00 -0700</pubDate>
-        <link>http://niklabs.me/example/2014/09/10/example-2.html</link>
-        <guid isPermaLink="true">http://niklabs.me/contrast/example/2014/09/10/example-2.html</guid>
+        <link>http://kajamite.github.io/example/2014/09/10/example-2.html</link>
+        <guid isPermaLink="true">http://kajamite.github.io/example/2014/09/10/example-2.html</guid>
         
         
         <category>example</category>
@@ -119,8 +119,8 @@
 
 </description>
         <pubDate>Wed, 10 Sep 2014 15:37:00 -0700</pubDate>
-        <link>http://niklabs.me/example/2014/09/10/example.html</link>
-        <guid isPermaLink="true">http://niklabs.me/contrast/example/2014/09/10/example.html</guid>
+        <link>http://kajamite.github.io/example/2014/09/10/example.html</link>
+        <guid isPermaLink="true">http://kajamite.github.io/example/2014/09/10/example.html</guid>
         
         
         <category>example</category>
